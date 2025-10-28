@@ -39,8 +39,8 @@ jobs:
         commit-message: '✏️ Update papers automatically.'
         force-add: 'true'
         files: README.md .github/ISSUE_TEMPLATE.md
-        name: pstAmbition
-        email: 2583009344@qq.com
+        name: ZCjenny549
+        email: hzn0806@163.com
 
     - name: Create an issue to notify
       uses: JasonEtco/create-an-issue@v2
